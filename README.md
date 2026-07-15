@@ -28,8 +28,8 @@ Panel Admin (Backend)
 
 Teknologi yang Digunakan
 
-* **Frontend:** HTML5, CSS3, JavaScript, [Bootstrap 5 / Tailwind CSS]
-* **Backend:** [PHP Native / Laravel / Python Flask / Node.js]
+* **Frontend:** HTML5, CSS3, JavaScript, [Bootstrap 5]
+* **Backend:** [PHP Native / Node.js]
 * **Database:** MySQL
 * **Tools pendukung:** Composer, Git, Laragon / XAMPP
 
